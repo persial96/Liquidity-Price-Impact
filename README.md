@@ -1,4 +1,4 @@
-# Liquidity-Price-Impact
+## AN INTERNAL STRESS TEST MODEL FOR LIQUIDITY RISK MANAGEMENT IN ASSET MANAGEMENT
 
 This repository contains the main package for **price impact computation** in the case of liquidity distress. The model is specifically optimized for **Iccrea Banking Group** and has been developed by **Luca Persia** (Politecnico di Milano), **Michele Bonollo** (Politecnico di Milano), and **Simone Frigerio** (Iccrea Banking Group). 
 
