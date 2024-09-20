@@ -37,9 +37,9 @@ The repository includes an `src` folder containing all the MATLAB functions rela
 │   ├── utils/               # Utility functions
 │   └── main/                # Main script to run the model
 ├── docs/
-│   ├── images/
 │   │   └── liquidity_surface_MSCI.png
 │   │   └── liquidity_surface_NP.png
+│   │   └── LucaPersia_QF_Master_Thesis.pdf
 ├── README.md               # This file
 ```
 
@@ -48,7 +48,7 @@ The repository includes an `src` folder containing all the MATLAB functions rela
 The model produces several outputs, including:
 
 - **Impact Price Surfaces**: 3D surfaces that show the cost of liquidation as a function of time and stress level.
-  ![Typical Liquidity Surface from MSCI](docs/images/liquidity_surface_MSCI.png)
+  ![Typical Liquidity Surface from MSCI](docs/liquidity_surface_MSCI.png)
 - **Calibrated Parameters**: These parameters are tailored to Iccrea’s portfolio data for accurate liquidity risk assessment.
 - **Stress Test Reports**: Reports generated for different liquidation strategies, showing the cost implications and risk assessments.
 
