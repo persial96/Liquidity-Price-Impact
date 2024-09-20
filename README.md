@@ -31,7 +31,7 @@ The repository includes an `src` folder containing all the MATLAB functions rela
 ```bash
 .
 ├── code/                    # Core MATLAB functions for price impact calculation
-│   ├── price_impact/        # Functions for calculating impact prices
+│   ├── impact_price/        # Functions for calculating impact prices
 │   ├── charts/              # Scripts for visualizations
 │   ├── metaorders/          # Functions for metaorders simulations
 │   ├── utils/               # Utility functions
