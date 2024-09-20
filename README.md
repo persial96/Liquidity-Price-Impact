@@ -86,7 +86,7 @@ The model requires the following inputs:
 
 ## Outputs:
 - Liquidity Surfaces: Visual representations of liquidation costs over time.
-  ![Near-Proportional Output Example](docs/images/liquidity_surface_NP.png)
+  ![Near-Proportional Output Example](docs/liquidity_surface_NP.png)
 - Stress Test Results: Numerical and graphical reports showing the liquidation costs under various scenarios.
 
 ## Model Limitations
